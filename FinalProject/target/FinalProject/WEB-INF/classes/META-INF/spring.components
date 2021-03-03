@@ -1,0 +1,12 @@
+edu.neu.Controller.AJAXController=org.springframework.stereotype.Component
+edu.neu.Controller.AccountController=org.springframework.stereotype.Component
+edu.neu.Controller.ApplicationController=org.springframework.stereotype.Component
+edu.neu.Controller.JobController=org.springframework.stereotype.Component
+edu.neu.Controller.LoginController=org.springframework.stereotype.Component
+edu.neu.Controller.PDFController=org.springframework.stereotype.Component
+edu.neu.Pojo.Admin=javax.persistence.Entity
+edu.neu.Pojo.Application=javax.persistence.Entity,javax.persistence.Table
+edu.neu.Pojo.Employee=javax.persistence.Entity
+edu.neu.Pojo.Job=javax.persistence.Entity,javax.persistence.Table
+edu.neu.Pojo.Manager=javax.persistence.Entity,javax.persistence.Table
+edu.neu.Pojo.User=javax.persistence.Entity,javax.persistence.Table
